@@ -29,7 +29,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/MicrosoftSQLServer-282C34?logo=MicrosoftSQLServer&logoColor=CC2927" alt="Microft SQL Server logo" title="Microft SQL Server" height="25" /></span>
 &nbsp;
-<br>
+
 
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
