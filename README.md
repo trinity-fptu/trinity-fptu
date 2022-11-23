@@ -23,7 +23,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/MicrosoftSQLServer-282C34?logo=MicrosoftSQLServer&logoColor=CC2927" alt="mssql logo" title="mssql" height="25" /></span>
+<span><img src="https://img.shields.io/badge/MSSQL-282C34?logo=MicrosoftSQLServer&logoColor=CC2927" alt="MSSQL logo" title="MSSQL" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
